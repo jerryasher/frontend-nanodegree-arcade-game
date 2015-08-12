@@ -24,8 +24,7 @@ var blockBlankHeight = 50,
     playerCenter = playerWidth / 2,
     playerOffset = playerCenter + ((blockWidth - playerWidth) / 2),
     playerStartLane = 5,
-    playerStartColumn = 2
-;
+    playerStartColumn = 2;
 
 var randomRange = function(min, max) {
   var width = max - min;

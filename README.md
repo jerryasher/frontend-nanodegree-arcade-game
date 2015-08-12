@@ -1,6 +1,6 @@
 frontend-nanodegree-arcade-game
 ===============================
 
-Students should use this rubric: https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797
+Final project for the Udacity Object Oriented Javascript course was a simple frogger game. Open index.html in your browser, use the arrow keys to move the player around without being hit by the bugs.
 
-for self-checking their submission.
+You win if you can get to the top row.
